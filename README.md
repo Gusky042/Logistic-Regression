@@ -27,4 +27,23 @@ This project builds a machine learning model to predict whether a breast tumor i
 - Scikit-learn
 - XGBoost
 
-## 📁 Repository Structure
+
+## 👤 Author
+
+**Gusky042**
+
+- GitHub: [https://github.com/Gusky042](https://github.com/Gusky042)
+- LinkedIn: [Add your LinkedIn URL here]
+- Email: [paulchiagoziea@gmail.com]
+
+---
+
+## 📅 Project Timeline
+- Started: April 2026
+- Last Updated: April 2026
+
+---
+
+## 🙏 Acknowledgments
+- Dataset: UCI Machine Learning Repository
+- Mentor: Online AI/ML Course
