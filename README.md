@@ -26,14 +26,23 @@ This project builds a machine learning model to predict whether a breast tumor i
 - NumPy, Pandas, Matplotlib, Seaborn
 - Scikit-learn
 - XGBoost
-
+## 📁 Repository Structure
+breast_cancer_project/
+├── data/ # Dataset
+├── notebooks/ # Jupyter notebooks
+│ ├── 01_eda.ipynb # Exploratory Data Analysis
+│ ├── 02_model.ipynb # Model training
+│ └── 03_evaluation.ipynb # Results
+├── models/ # Saved models
+├── requirements.txt # Dependencies
+└── README.md # This file
 
 ## 👤 Author
 
 **Gusky042**
 
 - GitHub: [https://github.com/Gusky042](https://github.com/Gusky042)
-- LinkedIn: [Add your LinkedIn URL here]
+
 - Email: [paulchiagoziea@gmail.com]
 
 ---
