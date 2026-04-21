@@ -37,4 +37,23 @@ This project predicts whether a patient has heart disease based on clinical para
 
 ---
 
-## 📁 Repository Structure
+💡 What I Learned
+Built Logistic Regression from scratch (gradient descent)
+
+Built Random Forest from scratch (bootstrap, random features)
+
+Feature importance analysis for medical insights
+
+ROC-AUC for model evaluation
+
+👤 Author
+Gusky042
+
+GitHub: https://github.com/Gusky042
+
+
+
+📅 Project Timeline
+Started: April 2026
+
+Last Updated: April 2026
